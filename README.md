@@ -36,7 +36,7 @@ python password_generator.py
 
 Here’s an example of the password generator in action:
 
-
+<img width="1920" height="1030" alt="Image" src="https://github.com/user-attachments/assets/a0ac950a-42c0-43d4-a4fa-386fd5ba3cf1" />
 
 # 🔮 Future Improvements
 
