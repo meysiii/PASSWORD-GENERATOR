@@ -24,7 +24,7 @@ Libraries: random, string
 
 Clone this repository
 
-git clone https://github.com/your-username/password-generator.git
+git clone https://github.com/meysiii/PASSWORD-GENERATOR
 cd password-generator
 
 
